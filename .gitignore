@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+project-map.html
+project-visualizer-output/
+.project-visualizer/
